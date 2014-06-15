@@ -1,0 +1,21 @@
+{
+  "name": "update",
+  "description": "Update 'Who Am I?' packages",
+  "version": "1.0.0",
+  "author": {
+    "name": "Bohdan L.",
+    "email": "bogdan.uz@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bodia-uz/WhoAmI.git"
+  },
+  "license": "Apache, Version 2.0",
+  "engines": [
+    "node >= 0.8.0"
+  ],
+  "main": "upate.js",
+  "dependencies": {
+    "request": "~2.36.0"
+  }
+}
